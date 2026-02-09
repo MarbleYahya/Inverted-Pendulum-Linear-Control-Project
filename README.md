@@ -45,7 +45,7 @@ The system’s nonlinear dynamics were first derived analytically and then **lin
 
 ## 🛠 Technologies & Tools
 
-- MATLAB / Simulink (or Python for simulation)  
+- MATLAB / Simulink 
 - Control system analysis and design tools  
 - Classical control theory: PID, root locus, Bode/Nyquist analysis  
 

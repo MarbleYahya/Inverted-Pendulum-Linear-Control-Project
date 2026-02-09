@@ -18,7 +18,7 @@ The system’s nonlinear dynamics were first derived analytically and then **lin
 - **Components:** Pendulum, cart, and horizontal track.  
 - **Control Objective:** Stabilize the pendulum in the upright position.  
 - **Modeling Approach:**  
-  - Nonlinear equations of motion derived using Newtonian or Lagrangian mechanics.  
+  - Nonlinear equations of motion.  
   - Linearization around the upright equilibrium to obtain state-space representation.  
 
 ---
